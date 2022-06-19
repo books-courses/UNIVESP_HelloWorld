@@ -1,6 +1,6 @@
 # IDEs
 .vscode/
-.idea/
+#.idea/
 
 # Built application files
 *.apk
