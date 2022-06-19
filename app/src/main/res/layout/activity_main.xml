@@ -22,8 +22,6 @@
         android:id="@+id/editTextXML"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:ems="10"
-        android:inputType="textPersonName"
         android:hint="Escreva sua msg..."
         android:layout_marginBottom="50dp"/>
 
@@ -32,15 +30,25 @@
         android:id="@+id/button3"
         android:layout_width="@dimen/largura_botao"
         android:layout_height="wrap_content"
-        android:text="Michel Metran"
+        android:text="Acessa \nMichelMetran.com"
         android:onClick="MeuClique"/>
 
     <Button
         android:id="@+id/button5"
-        android:layout_width="wrap_content"
+        android:layout_width="@dimen/largura_botao"
         android:layout_height="wrap_content"
-        android:text="Segunda Tela"
+        android:text="Vai pra\nSegunda Tela"
         android:onClick="disparoNovaTela"/>
+
+    <Button
+        android:id="@+id/downloadXML"
+        android:layout_width="@dimen/largura_botao"
+        android:layout_height="wrap_content"
+        android:text="Download" />
 
 
 </LinearLayout>
+<!--Estava no EditText-->
+<!--    android:ems="10"-->
+<!--        android:inputType="textPersonName"-->
+

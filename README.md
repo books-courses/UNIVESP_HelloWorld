@@ -2,14 +2,24 @@
 
 <br>
 
-Mais um *Hello World!*, dessa vez usando Java no Android Studio.
-Material complementar a disciplina **2022.2 - COM450 - Desenv. Disp. Móveis**, da UNIVESP.
+Mais um *Hello World!*, dessa vez usando Java no Android Studio. Material complementar a
+disciplina **2022.2 - COM450 - Desenv. Disp. Móveis**, da UNIVESP.
+
+A concepçao do projeto foi de:
+
+**Parte 1**
+
+1. Criar um botao que direciona-se o usuario para um site qualquer
+2. Criar uma caixa de texto, onde o conteudo inserido pelo usuario fosse armazenado em uma variavel
+   e transportado para uma segunda tela do aplicativo.
+
+**Parte 2**
+
+3. Efetuar o download de um conteudo XML, trata-lo, e apresentar o texto na segunda tela.
 
 <br>
 
 ----
-
-
 
 ### Roteiro
 
@@ -24,4 +34,5 @@ Material complementar a disciplina **2022.2 - COM450 - Desenv. Disp. Móveis**, 
 
 ### TODO
 
-1. Fiz ate semana 5, continuar...
+1. Fiz ate semana 6, continuar...
+2. Estudar como fazer o deploy em uma loja de aplicativos.
