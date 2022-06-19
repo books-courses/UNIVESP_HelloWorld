@@ -17,6 +17,12 @@ A concepçao do projeto foi de:
 
 3. Efetuar o download de um conteudo XML, trata-lo, e apresentar o texto na segunda tela.
 
+
+<br>
+
+O projeto original pode ser encontrado no GitHub do professor:
+- https://github.com/RoosenRunge
+- 
 <br>
 
 ----
