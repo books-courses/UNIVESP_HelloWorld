@@ -9,6 +9,8 @@ Material complementar a disciplina **2022.2 - COM450 - Desenv. Disp. Móveis**, 
 
 ----
 
+
+
 ### Roteiro
 
 1. [Videoaula 11 - Introdução ao Android Studio](https://www.youtube.com/watch?v=90jZIi5xmJA)
