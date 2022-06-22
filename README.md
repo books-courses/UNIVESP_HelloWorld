@@ -33,7 +33,8 @@ O projeto original pode ser encontrado no GitHub do professor:
 
 ### Percepçao
 
-ddddd
+Achei bastante interessante esse  primeiro projeto de desenvolvimento mobile, usando Android Studio e java.
+Entendo que Kotlin pode ser uma boa alternativa!
 
 <br>
 
