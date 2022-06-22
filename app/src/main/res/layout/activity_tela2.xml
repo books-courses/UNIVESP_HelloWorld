@@ -15,4 +15,22 @@
         android:text="TextView"
         android:textSize="20sp"
         android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/salvarButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Salvar Mensagem" />
+
+    <Button
+        android:id="@+id/apagarButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Apagar Mensagem" />
+
+    <Button
+        android:id="@+id/visualizarButton"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Visualizar Mensagem" />
 </LinearLayout>

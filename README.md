@@ -18,11 +18,23 @@ A concepçao do projeto foi de:
 3. Efetuar o download de um conteudo XML, trata-lo, e apresentar o texto na segunda tela.
 
 
+**Parte 3**
+
+3. Adicionar um banco de dados para que eu possa salvar uma mensagem no banco e recupera-la apos o fechamento do APP.
+
 <br>
 
 O projeto original pode ser encontrado no GitHub do professor:
 - https://github.com/RoosenRunge
-- 
+
+<br>
+
+----
+
+### Percepçao
+
+ddddd
+
 <br>
 
 ----
@@ -40,5 +52,4 @@ O projeto original pode ser encontrado no GitHub do professor:
 
 ### TODO
 
-1. Fiz ate semana 6, continuar...
-2. Estudar como fazer o deploy em uma loja de aplicativos.
+1. Estudar como fazer o deploy em uma loja de aplicativos.

@@ -130,11 +130,9 @@ public class MainActivity extends AppCompatActivity {
         return null;
     }
 
+
     // Precisamos dar permissão de acesso a internet ao aplicativo no arquivo Manifest
     // <uses-permission android:name="android.permission.INTERNET"></uses-permission>
-
-
-
 
 
     // 6 Vamos criar a classe  que é uma AsynkTask,
@@ -152,11 +150,6 @@ public class MainActivity extends AppCompatActivity {
             return mensagem;
         }
     }
-
-
-
-
-
 }
 
 
